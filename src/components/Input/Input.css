@@ -1,0 +1,20 @@
+.inp1 {
+  line-height: 1rem;
+  padding: 0.9rem 1.4rem;
+  border: none;
+  border-radius: 50px 0px 0px 50px;
+}
+
+.inp2 {
+  line-height: 1.3rem;
+  padding: 0.9rem 1.4rem;
+  border: none;
+}
+.inp-btn {
+  line-height: 1.3rem;
+  padding: 0.9rem 1.4rem;
+  border: none;
+  border-radius: 0px 50px 50px 0px;
+  background: #087d86;
+  color: #fff;
+}

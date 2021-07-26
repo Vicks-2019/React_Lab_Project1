@@ -1,0 +1,17 @@
+.contact-input {
+  background: white;
+  color: #bebdbd;
+  margin-bottom: 10px;
+  line-height: 1.5rem;
+  padding: 0.9rem 1.4rem;
+  border: none;
+  border-radius: 50px;
+}
+.formcontact .contact-input {
+  width: 100%;
+}
+.bottomcontact {
+  flex: 1;
+
+  padding: 25px;
+}

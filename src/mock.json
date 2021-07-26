@@ -1,0 +1,2115 @@
+{
+  "Banner": {
+    "cards": [
+      {
+        "src": "/assets/Banner1.jpg",
+        "alt": "alt 1",
+        "heading": "heading 1",
+        "description": "desc 1"
+      },
+      {
+        "src": "/assets/Banner2.jpg",
+        "alt": "alt 1",
+        "heading": "heading 1",
+        "description": "desc 1"
+      },
+      {
+        "src": "/assets/Banner3.jpg",
+        "alt": "alt 1",
+        "heading": "heading 1",
+        "description": "desc 1"
+      }
+    ]
+  },
+  "HealthPackages": {
+    "card": [
+      {
+        "logo": "/assets/logo.jpg",
+        "image": "/assets/discount.jpg",
+        "title": "STANDARD HEALTH CARE PACKAGE",
+        "price": "Rs 999",
+        "subtitle": "Parameters Includes: 78",
+        "description": [
+          "LIVER FUNCTION TEST (LFT)",
+          "KIDNEY FUNCTION TEST (KFT/RFT)",
+          "LIPID/HEART PROFLIE",
+          "BONE HEALTH PROFLIE",
+          "DIABITIES PROFILE"
+        ]
+      },
+      {
+        "logo": "/assets/logo.jpg",
+        "image": "/assets/discount.jpg",
+        "title": "CLASSIC HEALTH CARE PACKAGE",
+        "subtitle": "Parameters Includes: 77",
+        "price": "Rs 2250",
+        "description": [
+          "LIVER FUNCTION TEST (LFT)",
+          "KIDNEY FUNCTION TEST (KFT/RFT)",
+          "LIPID/HEART PROFLIE",
+          "BONE HEALTH PROFLIE",
+          "DIABITIES PROFILE"
+        ]
+      },
+      {
+        "logo": "/assets/logo.jpg",
+        "image": "/assets/discount.jpg",
+        "title": "CLASSIC HEALTH CARE PACKAGE",
+        "subtitle": "Parameters Includes: 77",
+        "price": "Rs 2250",
+        "description": [
+          "LIVER FUNCTION TEST (LFT)",
+          "KIDNEY FUNCTION TEST (KFT/RFT)",
+          "LIPID/HEART PROFLIE",
+          "BONE HEALTH PROFLIE",
+          "DIABITIES PROFILE"
+        ]
+      },
+      {
+        "logo": "/assets/logo.jpg",
+        "image": "/assets/discount.jpg",
+        "title": "COMPLETE VITAMIN HEALTH CARE PACKAGE",
+        "subtitle": "Parameters Includes: 73",
+        "price": "Rs 1899",
+        "description": [
+          "LIVER FUNCTION TEST (LFT)",
+          "KIDNEY FUNCTION TEST (KFT/RFT)",
+          "LIPID/HEART PROFLIE",
+          "BONE HEALTH PROFLIE",
+          "DIABITIES PROFILE"
+        ]
+      },
+      {
+        "logo": "/assets/logo.jpg",
+        "image": "/assets/discount.jpg",
+        "title": "EXTENDED HEALTH CARE PACKAGE",
+        "subtitle": "Parameters Includes: 86",
+        "price": "Rs 3500",
+        "description": [
+          "LIVER FUNCTION TEST (LFT)",
+          "KIDNEY FUNCTION TEST (KFT/RFT)",
+          "LIPID/HEART PROFLIE",
+          "BONE HEALTH PROFLIE",
+          "DIABITIES PROFILE"
+        ]
+      },
+      {
+        "logo": "/assets/logo.jpg",
+        "image": "/assets/discount.jpg",
+        "title": "BASIC HEALTH CARE PACKAGE",
+        "subtitle": "Parameters Includes: 52",
+        "price": "Rs 699",
+        "description": [
+          "LIVER FUNCTION TEST (LFT)",
+          "KIDNEY FUNCTION TEST (KFT/RFT)",
+          "LIPID/HEART PROFLIE",
+          "BONE HEALTH PROFLIE",
+          "DIABITIES PROFILE"
+        ]
+      },
+      {
+        "logo": "/assets/logo.jpg",
+        "image": "/assets/discount.jpg",
+        "title": "SPECIAL MALE HEALTH CARE PACKAGE",
+        "subtitle": "Parameters Includes: 73",
+        "price": "Rs 1899",
+        "description": [
+          "LIVER FUNCTION TEST (LFT)",
+          "KIDNEY FUNCTION TEST (KFT/RFT)",
+          "LIPID/HEART PROFLIE",
+          "BONE HEALTH PROFLIE",
+          "DIABITIES PROFILE"
+        ]
+      },
+      {
+        "logo": "/assets/logo.jpg",
+        "image": "/assets/discount.jpg",
+        "title": "SPECIAL DIABETES HEALTH CARE PACKAGE",
+        "price": "Rs 1899",
+        "description": [
+          "LIVER FUNCTION TEST (LFT)",
+          "LIVER FUNCTION TEST (LFT)",
+          "LIVER FUNCTION TEST (LFT)"
+        ]
+      },
+      {
+        "logo": "/assets/logo.jpg",
+        "image": "/assets/discount.jpg",
+        "title": "COVID-19 (RT-PCR)",
+        "price": "Rs 1200",
+        "description": ["RT-PCR"]
+      },
+      {
+        "logo": "/assets/logo.jpg",
+        "image": "/assets/discount.jpg",
+        "title": "Covid Panel Tests",
+        "price": "Rs 6300",
+        "description": ["CBC", "ESR", "CRP", "D DIMER", "IL6", "FERRITIN"]
+      }
+    ]
+  },
+  "Reason": {
+    "section": [
+      {
+        "id": 3,
+        "title": "3. Free Hard Copy Of Reports",
+        "description": "We provide Hard Copy of Reports @ Free. Because You Are paying For the papers of your reports."
+      },
+      {
+        "id": 4,
+        "title": "4 .On Time Sample Collection.",
+        "description": "We have more than 368+ phlebotomist team in Delhi NCR."
+      },
+      {
+        "id": 5,
+        "title": "5 .One Prick Sample Collection.",
+        "description": "One Prick Sample Is Because Of Experienced Team of Phlebotomist who had the degree of DMLT & BMLT."
+      },
+      {
+        "id": 6,
+        "title": "6 .Professional Staff.",
+        "description": "Staff of each and every department is highly educated and expert in their field."
+      },
+      {
+        "id": 7,
+        "title": "7 .FREE DIET CHART ACCORDING TO REPORTS RESULT.",
+        "description": "Expert team of dietician provides free consultation to our patients for their improvement in health"
+      },
+      {
+        "id": 8,
+        "title": "8 .On Time Reports",
+        "description": "Our all machines are fully automated with TRANSATIA, ROSH, CIMEN brand, and availability services of all currier companies."
+      },
+      {
+        "id": 9,
+        "title": "9 .Fully Automated Machines",
+        "description": "Completely Bar-coding system is adopted by us in all our certified machineries."
+      },
+      {
+        "id": 10,
+        "title": "10 .Free Home Collection",
+        "description": "Benefit starts with the order of Rs. 499/- only."
+      }
+    ]
+  },
+  "HealthRisk": {
+    "cards": [
+      {
+        "image": "/assets/kidney.png",
+        "title": "Kidney",
+        "button": "VIEW MORE"
+      },
+
+      {
+        "image": "/assets/diabetes.png",
+        "title": "Diabetes",
+        "button": "VIEW MORE"
+      },
+      {
+        "image": "/assets/heart.png",
+        "title": "Heart",
+        "button": "VIEW MORE"
+      },
+      {
+        "image": "/assets/liver.png",
+        "title": "Liver",
+        "button": "VIEW MORE"
+      },
+      {
+        "image": "/assets/thyroid.png",
+        "title": "Thyroid",
+        "button": "VIEW MORE"
+      },
+      {
+        "image": "/assets/vitamin-D.png",
+        "title": "Vitamin D",
+        "button": "VIEW MORE"
+      }
+    ]
+  },
+  "TestHabit": {
+    "cards": [
+      {
+        "image": "/assets/junkfood.png",
+        "title": "Junk Food",
+        "button": "VIEW MORE"
+      },
+      {
+        "image": "/assets/drinking.png",
+        "title": "Drinking",
+        "button": "VIEW MORE"
+      },
+      {
+        "image": "/assets/smoking.png",
+        "title": "Smoking",
+        "button": "VIEW MORE"
+      },
+      {
+        "image": "/assets/noexercise.png",
+        "title": "Zero Exercise",
+        "button": "VIEW MORE"
+      },
+      {
+        "image": "/assets/stress.png",
+        "title": "Stress",
+        "button": "VIEW MORE"
+      }
+    ]
+  },
+  "Gallery": {
+    "cards": [
+      {
+        "image": "assets/ourlab1.jpg"
+      },
+      {
+        "image": "assets/ourlab2.jpg"
+      },
+      {
+        "image": "assets/ourlab3.jpg"
+      },
+      {
+        "image": "assets/ourlab4.jpg"
+      },
+      {
+        "image": "assets/ourlab5.jpg"
+      },
+      {
+        "image": "assets/ourlab6.jpg"
+      },
+      {
+        "image": "assets/ourlab7.jpg"
+      },
+      {
+        "image": "assets/ourlab8.jpg"
+      },
+      {
+        "image": "assets/ourlab9.jpg"
+      }
+    ]
+  },
+  "Testimonial": {
+    "cards": [
+      {
+        "image": "assets/testimonial1.jpg",
+        "description": " Collection staff was well accomplished and was on time, follow up is upto mark, dietitian explanation was completely satisfactory, telecaller was well deciplined, overall fully satisfied experience",
+        "name": "Mr. Armender shah"
+      },
+      {
+        "image": "assets/testimonial2.jpg",
+        "description": "Thank You Payal Ma'am for helping me with the help of your diet plan, you guys are awesome, i don't know about others but i am dealing with payal ji and hema ji, both are wonderful people. you both was always there to help me with your services",
+        "name": "Mrs. Paramjeet Kaur"
+      },
+      {
+        "image": "assets/testimonial3.jpg",
+        "description": "I recently got my body checkup done from Indocare  Pathology Lab. I had a great experience. The sample was collected on time and after the test results, I was given a proper diet plan.",
+        "name": "Mr. Sanjeev Kumar"
+      },
+      {
+        "image": "assets/testimonial4.jpg",
+        "description": "Indocare Pathology Lab Services is nice and all staff behavior is good Or sporting.",
+        "name": "Mr. Paras Shakhuja"
+      },
+      {
+        "image": "assets/testmonial5.jpg",
+        "description": "I appriciate the procedure and hard work done by Indocare. I will suggest all to select Indocare for there health checkup.",
+        "name": "Mr. Vipan Puri"
+      },
+      {
+        "image": "assets/testmonial6.jpg",
+        "description": "It's wonderful experience to avail the service from Indocare Pathology,  I am highly satisfied from there pre 7 Post service's they stand on each commitment they made on us, I would recommend 7 all my friends 7 nearby to avail the Indocare pathlab services...thx",
+        "name": "Mr. Kailash jakhwal"
+      }
+    ]
+  },
+  "About": {
+    "image": "/assets/ABOUT US.jpg",
+    "title": "ABOUT US",
+    "description": "Indocare Pathology Labs are India’s complete health Management company and provides highest quality preventive health care packages to you at the comfort of your home. We provides health home with our door to door health care service concept where samples are collected from your home at your designated time and tested at our own ABAS certified lab. The reports are mailed to you on the same day.We also specialize in providing Diet consultation and Health advisor to advise you about your health. Our technology driven processes aims to make staying healthy convenient, accessible and affordable."
+  },
+  "Contact": {
+    "image": "/assets/CONTACT US.jpg",
+    "title": "CONTACT US"
+  },
+  "FAQs": {
+    "cards": [
+      {
+        "question": "WHAT INDOCARE PATHOLOGY LABS IS PERFORMING WITH WHAT AIM?",
+        "answer": "INDOCARE PATHOLOGY LABS PVT LTD IS FOCUSING ON PROVIDING ALL PREVENTIVE HEALTH CARE SERVICES TO THE PERSONS EITHER OF URBAN OR OF RURAL @ THEIR HOME WITH THE AIM OF DELIVERING QUALITY , COMFORTABLE AND AFFORDABLE SERVICES."
+      },
+      {
+        "question": "HOW DO I CHOOSE BEST PACAKGE ACCORDING TO MY NEEDS",
+        "answer": "WE HAVE MENTIONED ALL THE PACKAGE ACCORDING TO THE NEED SO YOU CAN SELECT AMONGST THOSE PACKAGE IF THEY SUITS YOU OR YOU CAN MAKE A CUSTOMISED PACKAGE ACCORDING TO YOUR NEED FOR THAT YOU CAN CALL US ON 9990-444-903/781 OR MAIL US ON CARE@INDOCAREPATHLAB.COM"
+      },
+      {
+        "question": "WHY I CHOOSE INDOCARE PATHOLOGY LABS?",
+        "answer": "THERE ARE MANY REASONS TO CHOOSE INDOCARE PATHOLOGY LASB BY WE CAN TELL SOME OUT OF THEM YOU CAN CHOOSE INDOCARE BECAUSE AS YOU OPT TO BOOK HEALTH CARE PACKAGE OF BLOOD TEST YOU GET ADDITIONAL SERVICES OF NEUTRITIONIST , HELATH ADVISOR ALONG WITH HOME SERVICES."
+      },
+      {
+        "question": "PACAKGES CAN BE CUSTOMISED?",
+        "answer": "YES’ IF YOU WANT TO AD ANY TEST INTO THE PACKAGES THAT IS COMPLETELY POSSIBLE BY IF YOU WANT TO REMOVE ANY TEST FROM THE PACKAGES THAT IS NOT POSSIBLE BECAUSE ALL OUR PACKAGES ARE DESIGNED AND PREPARED BY THE HIGHLY QUALIFIED MD MBBS DOCTOR AND NEUTRITIONIST."
+      },
+      {
+        "question": "THERE IS ANY PRECAUTION BEFORE TEST THAT NEED TO BE FOLLOW?",
+        "answer": "YES’ YOU NEED TO MAINTAIN MINIMUM OF 10 HOURS AND MAXIMUM OF 12 HOURS FASTING BEFORE BLOOD SAMPLE COLLECTION AND INFACT YOU NEED TO AVOID MILK IN THE NIGHT."
+      },
+      {
+        "question": "CAN BOOK MORE THE 1 PACKAGE?",
+        "answer": "YES’ DEFINITELY YOU CAN BOOK ANY NUMBER OF PACKAGES, REGARDING THE AMOUNT YOU WILL GET ORIGNAL INVOICE OF YOU PAYMENT."
+      },
+      {
+        "question": "WHAT ARE THE MODES OF PAYMENT?",
+        "answer": "YOU CAN PAY BY CASH, BY CARD, BY WALLET MONEY OF PAYTM AND INFACT ONLINE THROUGH WEBSITE."
+      },
+      {
+        "question": "ARE REPORTS AUTHENTIC/ACCURATE?",
+        "answer": "YES’ YOUR REPORTS WILL BE 100% AUTHENTIC BECAUSE OUR LAB IS ISO 9001:2015, ABAS CERTIFIED LAB WITH NABL COMPLAINCE, AND WE USE MACHINES OF TRANSACIA AND ABBOT MACHIN FOR MAINTAING THE ACCURACY"
+      }
+    ]
+  },
+  "WellPackages": {
+    "image": "/assets/well.jpg",
+    "card": [
+      {
+        "logo": "/assets/logo.jpg",
+        "image": "/assets/discount.jpg",
+        "title": "STANDARD HEALTH CARE PACKAGE",
+        "price": "Rs 999",
+        "subtitle": "Parameters Includes: 78",
+        "description": [
+          "LIVER FUNCTION TEST (LFT)",
+          "KIDNEY FUNCTION TEST (KFT/RFT)",
+          "LIPID/HEART PROFLIE",
+          "BONE HEALTH PROFLIE",
+          "DIABITIES PROFILE"
+        ]
+      },
+      {
+        "logo": "/assets/logo.jpg",
+        "image": "/assets/discount.jpg",
+        "title": "CLASSIC HEALTH CARE PACKAGE",
+        "subtitle": "Parameters Includes: 77",
+        "price": "Rs 2250",
+        "description": [
+          "LIVER FUNCTION TEST (LFT)",
+          "KIDNEY FUNCTION TEST (KFT/RFT)",
+          "LIPID/HEART PROFLIE",
+          "BONE HEALTH PROFLIE",
+          "DIABITIES PROFILE"
+        ]
+      },
+      {
+        "logo": "/assets/logo.jpg",
+        "image": "/assets/discount.jpg",
+        "title": "CLASSIC HEALTH CARE PACKAGE",
+        "subtitle": "Parameters Includes: 77",
+        "price": "Rs 2250",
+        "description": [
+          "LIVER FUNCTION TEST (LFT)",
+          "KIDNEY FUNCTION TEST (KFT/RFT)",
+          "LIPID/HEART PROFLIE",
+          "BONE HEALTH PROFLIE",
+          "DIABITIES PROFILE"
+        ]
+      },
+      {
+        "logo": "/assets/logo.jpg",
+        "image": "/assets/discount.jpg",
+        "title": "COMPLETE VITAMIN HEALTH CARE PACKAGE",
+        "subtitle": "Parameters Includes: 73",
+        "price": "Rs 1899",
+        "description": [
+          "LIVER FUNCTION TEST (LFT)",
+          "KIDNEY FUNCTION TEST (KFT/RFT)",
+          "LIPID/HEART PROFLIE",
+          "BONE HEALTH PROFLIE",
+          "DIABITIES PROFILE"
+        ]
+      },
+      {
+        "logo": "/assets/logo.jpg",
+        "image": "/assets/discount.jpg",
+        "title": "EXTENDED HEALTH CARE PACKAGE",
+        "subtitle": "Parameters Includes: 86",
+        "price": "Rs 3500",
+        "description": [
+          "LIVER FUNCTION TEST (LFT)",
+          "KIDNEY FUNCTION TEST (KFT/RFT)",
+          "LIPID/HEART PROFLIE",
+          "BONE HEALTH PROFLIE",
+          "DIABITIES PROFILE"
+        ]
+      },
+      {
+        "logo": "/assets/logo.jpg",
+        "image": "/assets/discount.jpg",
+        "title": "BASIC HEALTH CARE PACKAGE",
+        "subtitle": "Parameters Includes: 52",
+        "price": "Rs 699",
+        "description": [
+          "LIVER FUNCTION TEST (LFT)",
+          "KIDNEY FUNCTION TEST (KFT/RFT)",
+          "LIPID/HEART PROFLIE",
+          "BONE HEALTH PROFLIE",
+          "DIABITIES PROFILE"
+        ]
+      },
+      {
+        "logo": "/assets/logo.jpg",
+        "image": "/assets/discount.jpg",
+        "title": "SPECIAL MALE HEALTH CARE PACKAGE",
+        "subtitle": "Parameters Includes: 73",
+        "price": "Rs 1899",
+        "description": [
+          "LIVER FUNCTION TEST (LFT)",
+          "KIDNEY FUNCTION TEST (KFT/RFT)",
+          "LIPID/HEART PROFLIE",
+          "BONE HEALTH PROFLIE",
+          "DIABITIES PROFILE"
+        ]
+      },
+      {
+        "logo": "/assets/logo.jpg",
+        "image": "/assets/discount.jpg",
+        "title": "SPECIAL DIABETES HEALTH CARE PACKAGE",
+        "price": "Rs 1899",
+        "description": [
+          "LIVER FUNCTION TEST (LFT)",
+          "LIVER FUNCTION TEST (LFT)",
+          "LIVER FUNCTION TEST (LFT)"
+        ]
+      },
+      {
+        "logo": "/assets/logo.jpg",
+        "image": "/assets/discount.jpg",
+        "title": "COVID-19 (RT-PCR)",
+        "price": "Rs 1200",
+        "description": ["RT-PCR"]
+      },
+      {
+        "logo": "/assets/logo.jpg",
+        "image": "/assets/discount.jpg",
+        "title": "Covid Panel Tests",
+        "price": "Rs 6300",
+        "description": ["CBC", "ESR", "CRP", "D DIMER", "IL6", "FERRITIN"]
+      }
+    ]
+  },
+  "Input": {
+    "test": [
+      "17 KETOSTEROIDS - 24 HRS URINE",
+      "17-HYDROXY CORTICOSTEROIDS - 24 HRS URINE",
+      " 17-HYDROXY PROGESTERONE ",
+      "5 Alpha, DHT - DI HYDRO TESTOSTERONE ",
+      "5 HIAA 24 HOURS URINE",
+      " 17 KETOSTEROIDS - 24 HRS URINE ",
+      " 17-HYDROXY CORTICOSTEROIDS - 24 HRS URINE",
+      " 17-HYDROXY PROGESTERONE ",
+      "5 Alpha, DHT - DI HYDRO TESTOSTERONE ",
+      " 5 HIAA 24 HOURS URINE",
+      " 17 KETOSTEROIDS - 24 HRS URINE ",
+      " 17-HYDROXY CORTICOSTEROIDS - 24 HRS URINE",
+      " 17-HYDROXY PROGESTERONE ",
+      "5 Alpha, DHT - DI HYDRO TESTOSTERONE ",
+      " 5 HIAA 24 HOURS URINE",
+      " 17 KETOSTEROIDS - 24 HRS URINE ",
+      " 17-HYDROXY CORTICOSTEROIDS - 24 HRS URINE",
+      " 17-HYDROXY PROGESTERONE ",
+      "5 Alpha, DHT - DI HYDRO TESTOSTERONE ",
+      " 5 HIAA 24 HOURS URINE",
+      " 17 KETOSTEROIDS - 24 HRS URINE ",
+      " 17-HYDROXY CORTICOSTEROIDS - 24 HRS URINE",
+      " 17-HYDROXY PROGESTERONE ",
+      "5 Alpha, DHT - DI HYDRO TESTOSTERONE ",
+      " 5 HIAA 24 HOURS URINE",
+      " 17 KETOSTEROIDS - 24 HRS URINE ",
+      " 17-HYDROXY CORTICOSTEROIDS - 24 HRS URINE",
+      " 17-HYDROXY PROGESTERONE ",
+      "5 Alpha, DHT - DI HYDRO TESTOSTERONE ",
+      " 5 HIAA 24 HOURS URINE",
+      " 17 KETOSTEROIDS - 24 HRS URINE ",
+      " 17-HYDROXY CORTICOSTEROIDS - 24 HRS URINE",
+      " 17-HYDROXY PROGESTERONE ",
+      "5 Alpha, DHT - DI HYDRO TESTOSTERONE ",
+      " 5 HIAA 24 HOURS URINE",
+      " 17 KETOSTEROIDS - 24 HRS URINE ",
+      " 17-HYDROXY CORTICOSTEROIDS - 24 HRS URINE",
+      " 17-HYDROXY PROGESTERONE ",
+      "5 Alpha, DHT - DI HYDRO TESTOSTERONE ",
+      " 5 HIAA 24 HOURS URINE",
+      " 17 KETOSTEROIDS - 24 HRS URINE ",
+      " 17-HYDROXY CORTICOSTEROIDS - 24 HRS URINE",
+      " 17-HYDROXY PROGESTERONE ",
+      "5 Alpha, DHT - DI HYDRO TESTOSTERONE ",
+      " 5 HIAA 24 HOURS URINE"
+    ]
+  },
+  "PackageDetails": [
+    {
+      "id": "1",
+      "title": "STANDARD HEALTH CARE PACKAGE",
+      "card": [
+        {
+          "image": "/assets/liver.png",
+          "title": "LIVER FUNCTION TEST (LFT)",
+
+          "description": [
+            "SGOT (AST)",
+            "SGPT (ALT)",
+            "GGTP (GAMMA GT)",
+            "Albumin",
+            "Globulin",
+            "A:G Ratio",
+            "Total Proteins",
+            "Bilirubin Total",
+            "Bilirubin Direct - Conjugated",
+            "Bilirubin Indirect - Conjugated",
+            "SGPT / SGOT RATIO"
+          ]
+        },
+        {
+          "image": "/assets/kidney.png",
+          "title": "KIDNEY FUNCTION TEST (KFT/RFT)",
+
+          "description": [
+            "Urea",
+            "Uric Acid",
+            "Creatinine",
+            "calcium",
+            "Sodium",
+            "Potassium",
+            "Chloride",
+            "Blood Urea Nitrogen(BUN)",
+            "Urea/Creatinine Ratio",
+            "BUN/Creatinine Ratio"
+          ]
+        },
+        {
+          "image": "/assets/heart.png",
+          "title": "LIPID/HEART PROFLIE",
+
+          "description": [
+            "Total Cholesterol",
+            "Triglycerides",
+            "HDL",
+            "LDL",
+            "VLDL",
+            "LDL/HDL Ratio",
+            "HDL/LDL Ratio",
+            "Total Cholesterol/HDL Cholesterol Ratio."
+          ]
+        },
+        {
+          "image": "/assets/bone.png",
+          "title": "BONE HEALTH PROFLIE",
+
+          "description": [
+            "Calcium",
+            "Phosphorus",
+            "Alkaline Phosphate(ALP)",
+            "ESR"
+          ]
+        },
+        {
+          "image": "/assets/diabetes.png",
+          "title": "Diabetes",
+
+          "description": ["Blood Sugar Fasting/Random", "Urine Glucose"]
+        },
+        {
+          "image": "/assets/urine.png",
+          "title": "URINE R/M",
+
+          "description": [
+            "Blirubin Urine",
+            "Urine Glucose",
+            "Urobilinogin",
+            "Specific Gravity",
+            "Reaction",
+            "RBC's",
+            "Pus Cells",
+            "PH",
+            "Nitrate",
+            "Ketone",
+            "Epithelial Cells",
+            "Crystals",
+            "Colour",
+            "Casts",
+            "Bacteria",
+            "Apperence"
+          ]
+        },
+        {
+          "image": "/assets/blood.png",
+          "title": "COMPLETE BLOOD COUNT (CBC)",
+
+          "description": [
+            "HB (Hemoglobin)",
+            "TLC",
+            "DLC",
+            "Neutrophils",
+            "Basophil",
+            "Eosinophil",
+            "Monocytes",
+            "Lymphocytes",
+            "ESR",
+            "RBC",
+            "PCV",
+            "MCV",
+            "MCH",
+            "MCHC",
+            "RDW-CV",
+            "RDW-SD",
+            "RDW-CV/RDW-SD",
+            "Platelet Count",
+            "PDW",
+            "ESR"
+          ]
+        },
+        {
+          "image": "/assets/iron.png",
+          "title": "IRON",
+
+          "description": ["IRON SERUM"]
+        },
+        {
+          "image": "/assets/electrolite.png",
+          "title": "ELECTROLITE PROFILE",
+
+          "description": ["Sodium", "Potassium", "Chloride"]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "CLASSIC HEALTH CARE PACKAGE",
+      "card": [
+        {
+          "image": "/assets/liver.png",
+          "title": "LIVER FUNCTION TEST (LFT)",
+
+          "description": [
+            "SGOT (AST)",
+            "SGPT (ALT)",
+            "GGTP (GAMMA GT)",
+            "Albumin",
+            "Globulin",
+            "A:G Ratio",
+            "Total Proteins",
+            "Bilirubin Total",
+            "Bilirubin Direct - Conjugated",
+            "Bilirubin Indirect - Conjugated",
+            "SGPT / SGOT RATIO"
+          ]
+        },
+        {
+          "image": "/assets/kidney.png",
+          "title": "KIDNEY FUNCTION TEST (KFT/RFT)",
+
+          "description": [
+            "Urea",
+            "Uric Acid",
+            "Creatinine",
+            "calcium",
+            "Sodium",
+            "Potassium",
+            "Chloride",
+            "Blood Urea Nitrogen(BUN)",
+            "Urea/Creatinine Ratio",
+            "BUN/Creatinine Ratio"
+          ]
+        },
+        {
+          "image": "/assets/heart.png",
+          "title": "LIPID/HEART PROFLIE",
+
+          "description": [
+            "Total Cholesterol",
+            "Triglycerides",
+            "HDL",
+            "LDL",
+            "VLDL",
+            "LDL/HDL Ratio",
+            "HDL/LDL Ratio",
+            "Total Cholesterol/HDL Cholesterol Ratio."
+          ]
+        },
+        {
+          "image": "/assets/bone.png",
+          "title": "BONE HEALTH PROFLIE",
+
+          "description": [
+            "Calcium",
+            "Phosphorus",
+            "Alkaline Phosphate(ALP)",
+            "ESR"
+          ]
+        },
+        {
+          "image": "/assets/diabetes.png",
+          "title": "Diabetes",
+
+          "description": ["Blood Sugar Fasting/Random", "Urine Glucose"]
+        },
+        {
+          "image": "/assets/urine.png",
+          "title": "URINE R/M",
+
+          "description": [
+            "Blirubin Urine",
+            "Urine Glucose",
+            "Urobilinogin",
+            "Specific Gravity",
+            "Reaction",
+            "RBC's",
+            "Pus Cells",
+            "PH",
+            "Nitrate",
+            "Ketone",
+            "Epithelial Cells",
+            "Crystals",
+            "Colour",
+            "Casts",
+            "Bacteria",
+            "Apperence"
+          ]
+        },
+        {
+          "image": "/assets/blood.png",
+          "title": "COMPLETE BLOOD COUNT (CBC)",
+
+          "description": [
+            "HB (Hemoglobin)",
+            "TLC",
+            "DLC",
+            "Neutrophils",
+            "Basophil",
+            "Eosinophil",
+            "Monocytes",
+            "Lymphocytes",
+            "ESR",
+            "RBC",
+            "PCV",
+            "MCV",
+            "MCH",
+            "MCHC",
+            "RDW-CV",
+            "RDW-SD",
+            "RDW-CV/RDW-SD",
+            "Platelet Count",
+            "PDW",
+            "ESR"
+          ]
+        },
+        {
+          "image": "/assets/iron.png",
+          "title": "IRON",
+
+          "description": ["IRON SERUM"]
+        },
+        {
+          "image": "/assets/vitamin.png",
+          "title": "VITAMIN PROFILE",
+
+          "description": ["Vitamin D25 Hydroxy"]
+        },
+        {
+          "image": "/assets/thyroid.png",
+          "title": "THYROID",
+
+          "description": ["TSH (Thyroid Stimulating Hormone)", "T3 &", "T4"]
+        },
+        {
+          "image": "/assets/prostate-cancer.png",
+          "title": "PSA (PROSTATE SPECIFIC ANTIGEN)",
+
+          "description": ["PSA (PROSTATE SPECIFIC ANTIGEN)"]
+        },
+        {
+          "image": "/assets/cancer.png",
+          "title": "CANCER MARKER",
+
+          "description": ["CA125"]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "COMPLETE VITAMIN HEALTH CARE PACKAGE",
+      "card": [
+        {
+          "image": "/assets/liver.png",
+          "title": "LIVER FUNCTION TEST (LFT)",
+
+          "description": [
+            "SGOT (AST)",
+            "SGPT (ALT)",
+            "GGTP (GAMMA GT)",
+            "Albumin",
+            "Globulin",
+            "A:G Ratio",
+            "Total Proteins",
+            "Bilirubin Total",
+            "Bilirubin Direct - Conjugated",
+            "Bilirubin Indirect - Conjugated",
+            "SGPT / SGOT RATIO"
+          ]
+        },
+        {
+          "image": "/assets/kidney.png",
+          "title": "KIDNEY FUNCTION TEST (KFT/RFT)",
+
+          "description": [
+            "Urea",
+            "Uric Acid",
+            "Creatinine",
+            "calcium",
+            "Sodium",
+            "Potassium",
+            "Chloride",
+            "Blood Urea Nitrogen(BUN)",
+            "Urea/Creatinine Ratio",
+            "BUN/Creatinine Ratio"
+          ]
+        },
+        {
+          "image": "/assets/heart.png",
+          "title": "LIPID/HEART PROFLIE",
+
+          "description": [
+            "Total Cholesterol",
+            "Triglycerides",
+            "HDL",
+            "LDL",
+            "VLDL",
+            "LDL/HDL Ratio",
+            "HDL/LDL Ratio",
+            "Total Cholesterol/HDL Cholesterol Ratio."
+          ]
+        },
+        {
+          "image": "/assets/bone.png",
+          "title": "BONE HEALTH PROFLIE",
+
+          "description": [
+            "Calcium",
+            "Phosphorus",
+            "Alkaline Phosphate(ALP)",
+            "ESR"
+          ]
+        },
+        {
+          "image": "/assets/diabetes.png",
+          "title": "Diabetes",
+
+          "description": ["Blood Sugar Fasting/Random", "Urine Glucose"]
+        },
+        {
+          "image": "/assets/urine.png",
+          "title": "URINE R/M",
+
+          "description": [
+            "Blirubin Urine",
+            "Urine Glucose",
+            "Urobilinogin",
+            "Specific Gravity",
+            "Reaction",
+            "RBC's",
+            "Pus Cells",
+            "PH",
+            "Nitrate",
+            "Ketone",
+            "Epithelial Cells",
+            "Crystals",
+            "Colour",
+            "Casts",
+            "Bacteria",
+            "Apperence"
+          ]
+        },
+        {
+          "image": "/assets/blood.png",
+          "title": "COMPLETE BLOOD COUNT (CBC)",
+
+          "description": [
+            "HB (Hemoglobin)",
+            "TLC",
+            "DLC",
+            "Neutrophils",
+            "Basophil",
+            "Eosinophil",
+            "Monocytes",
+            "Lymphocytes",
+            "ESR",
+            "RBC",
+            "PCV",
+            "MCV",
+            "MCH",
+            "MCHC",
+            "RDW-CV",
+            "RDW-SD",
+            "RDW-CV/RDW-SD",
+            "Platelet Count",
+            "PDW",
+            "ESR"
+          ]
+        },
+        {
+          "image": "/assets/iron.png",
+          "title": "IRON",
+
+          "description": ["IRON SERUM"]
+        },
+        {
+          "image": "/assets/vitamin.png",
+          "title": "VITAMIN PROFILE",
+
+          "description": ["Vitamin D25 Hydroxy"]
+        },
+        {
+          "image": "/assets/thyroid.png",
+          "title": "THYROID",
+
+          "description": ["TSH (Thyroid Stimulating Hormone)", "T3 &", "T4"]
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "BASIC HEALTH CARE PACKAGE",
+      "card": [
+        {
+          "image": "/assets/liver.png",
+          "title": "LIVER FUNCTION TEST (LFT)",
+
+          "description": [
+            "SGOT (AST)",
+            "SGPT (ALT)",
+            "GGTP (GAMMA GT)",
+            "Albumin",
+            "Globulin",
+            "A:G Ratio",
+            "Total Proteins",
+            "Bilirubin Total",
+            "Bilirubin Direct - Conjugated",
+            "Bilirubin Indirect - Conjugated",
+            "SGPT / SGOT RATIO"
+          ]
+        },
+        {
+          "image": "/assets/kidney.png",
+          "title": "KIDNEY FUNCTION TEST (KFT/RFT)",
+
+          "description": [
+            "Urea",
+            "Uric Acid",
+            "Creatinine",
+            "calcium",
+            "Sodium",
+            "Potassium",
+            "Chloride",
+            "Blood Urea Nitrogen(BUN)",
+            "Urea/Creatinine Ratio",
+            "BUN/Creatinine Ratio"
+          ]
+        },
+        {
+          "image": "/assets/heart.png",
+          "title": "LIPID/HEART PROFLIE",
+
+          "description": [
+            "Total Cholesterol",
+            "Triglycerides",
+            "HDL",
+            "LDL",
+            "VLDL",
+            "LDL/HDL Ratio",
+            "HDL/LDL Ratio",
+            "Total Cholesterol/HDL Cholesterol Ratio."
+          ]
+        },
+        {
+          "image": "/assets/bone.png",
+          "title": "BONE HEALTH PROFLIE",
+
+          "description": [
+            "Calcium",
+            "Phosphorus",
+            "Alkaline Phosphate(ALP)",
+            "ESR"
+          ]
+        },
+        {
+          "image": "/assets/diabetes.png",
+          "title": "Diabetes",
+
+          "description": ["Blood Sugar Fasting/Random", "Urine Glucose"]
+        },
+        {
+          "image": "/assets/urine.png",
+          "title": "URINE R/M",
+
+          "description": [
+            "Blirubin Urine",
+            "Urine Glucose",
+            "Urobilinogin",
+            "Specific Gravity",
+            "Reaction",
+            "RBC's",
+            "Pus Cells",
+            "PH",
+            "Nitrate",
+            "Ketone",
+            "Epithelial Cells",
+            "Crystals",
+            "Colour",
+            "Casts",
+            "Bacteria",
+            "Apperence"
+          ]
+        },
+        {
+          "image": "/assets/blood.png",
+          "title": "COMPLETE BLOOD COUNT (CBC)",
+
+          "description": [
+            "HB (Hemoglobin)",
+            "TLC",
+            "DLC",
+            "Neutrophils",
+            "Basophil",
+            "Eosinophil",
+            "Monocytes",
+            "Lymphocytes",
+            "ESR",
+            "RBC",
+            "PCV",
+            "MCV",
+            "MCH",
+            "MCHC",
+            "RDW-CV",
+            "RDW-SD",
+            "RDW-CV/RDW-SD",
+            "Platelet Count",
+            "PDW",
+            "ESR"
+          ]
+        },
+        {
+          "image": "/assets/iron.png",
+          "title": "IRON",
+
+          "description": ["IRON SERUM"]
+        },
+        {
+          "image": "/assets/vitamin.png",
+          "title": "VITAMIN PROFILE",
+
+          "description": ["Vitamin D25 Hydroxy"]
+        },
+        {
+          "image": "/assets/thyroid.png",
+          "title": "THYROID",
+
+          "description": ["TSH (Thyroid Stimulating Hormone)", "T3 &", "T4"]
+        },
+        {
+          "image": "/assets/prostate-cancer.png",
+          "title": "PSA (PROSTATE SPECIFIC ANTIGEN)",
+
+          "description": ["PSA (PROSTATE SPECIFIC ANTIGEN)"]
+        },
+        {
+          "image": "/assets/cancer.png",
+          "title": "CANCER MARKER",
+
+          "description": ["CA125"]
+        },
+        {
+          "image": "/assets/arthritis.png",
+          "title": "ARTHRITIES",
+
+          "description": ["RA FACTOR"]
+        },
+        {
+          "image": "/assets/fire.png",
+          "title": "INFLAMATION",
+
+          "description": ["CRP"]
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "title": "STANDARD HEALTH CARE PACKAGE",
+      "card": [
+        {
+          "image": "/assets/liver.png",
+          "title": "LIVER FUNCTION TEST (LFT)",
+
+          "description": [
+            "SGOT (AST)",
+            "SGPT (ALT)",
+            "GGTP (GAMMA GT)",
+            "Albumin",
+            "Globulin",
+            "A:G Ratio",
+            "Total Proteins",
+            "Bilirubin Total",
+            "Bilirubin Direct - Conjugated",
+            "Bilirubin Indirect - Conjugated",
+            "SGPT / SGOT RATIO"
+          ]
+        },
+        {
+          "image": "/assets/kidney.png",
+          "title": "KIDNEY FUNCTION TEST (KFT/RFT)",
+
+          "description": [
+            "Urea",
+            "Uric Acid",
+            "Creatinine",
+            "calcium",
+            "Sodium",
+            "Potassium",
+            "Chloride",
+            "Blood Urea Nitrogen(BUN)",
+            "Urea/Creatinine Ratio",
+            "BUN/Creatinine Ratio"
+          ]
+        },
+        {
+          "image": "/assets/heart.png",
+          "title": "LIPID/HEART PROFLIE",
+
+          "description": [
+            "Total Cholesterol",
+            "Triglycerides",
+            "HDL",
+            "LDL",
+            "VLDL",
+            "LDL/HDL Ratio",
+            "HDL/LDL Ratio",
+            "Total Cholesterol/HDL Cholesterol Ratio."
+          ]
+        },
+        {
+          "image": "/assets/bone.png",
+          "title": "BONE HEALTH PROFLIE",
+
+          "description": [
+            "Calcium",
+            "Phosphorus",
+            "Alkaline Phosphate(ALP)",
+            "ESR"
+          ]
+        },
+        {
+          "image": "/assets/diabetes.png",
+          "title": "Diabetes",
+
+          "description": ["Blood Sugar Fasting/Random", "Urine Glucose"]
+        },
+        {
+          "image": "/assets/urine.png",
+          "title": "URINE R/M",
+
+          "description": [
+            "Blirubin Urine",
+            "Urine Glucose",
+            "Urobilinogin",
+            "Specific Gravity",
+            "Reaction",
+            "RBC's",
+            "Pus Cells",
+            "PH",
+            "Nitrate",
+            "Ketone",
+            "Epithelial Cells",
+            "Crystals",
+            "Colour",
+            "Casts",
+            "Bacteria",
+            "Apperence"
+          ]
+        },
+        {
+          "image": "/assets/blood.png",
+          "title": "COMPLETE BLOOD COUNT (CBC)",
+
+          "description": [
+            "HB (Hemoglobin)",
+            "TLC",
+            "DLC",
+            "Neutrophils",
+            "Basophil",
+            "Eosinophil",
+            "Monocytes",
+            "Lymphocytes",
+            "ESR",
+            "RBC",
+            "PCV",
+            "MCV",
+            "MCH",
+            "MCHC",
+            "RDW-CV",
+            "RDW-SD",
+            "RDW-CV/RDW-SD",
+            "Platelet Count",
+            "PDW",
+            "ESR"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "SPECIAL MALE HEALTH CARE PACKAGE",
+      "card": [
+        {
+          "image": "/assets/liver.png",
+          "title": "LIVER FUNCTION TEST (LFT)",
+
+          "description": [
+            "SGOT (AST)",
+            "SGPT (ALT)",
+            "GGTP (GAMMA GT)",
+            "Albumin",
+            "Globulin",
+            "A:G Ratio",
+            "Total Proteins",
+            "Bilirubin Total",
+            "Bilirubin Direct - Conjugated",
+            "Bilirubin Indirect - Conjugated",
+            "SGPT / SGOT RATIO"
+          ]
+        },
+        {
+          "image": "/assets/kidney.png",
+          "title": "KIDNEY FUNCTION TEST (KFT/RFT)",
+
+          "description": [
+            "Urea",
+            "Uric Acid",
+            "Creatinine",
+            "calcium",
+            "Sodium",
+            "Potassium",
+            "Chloride",
+            "Blood Urea Nitrogen(BUN)",
+            "Urea/Creatinine Ratio",
+            "BUN/Creatinine Ratio"
+          ]
+        },
+        {
+          "image": "/assets/heart.png",
+          "title": "LIPID/HEART PROFLIE",
+
+          "description": [
+            "Total Cholesterol",
+            "Triglycerides",
+            "HDL",
+            "LDL",
+            "VLDL",
+            "LDL/HDL Ratio",
+            "HDL/LDL Ratio",
+            "Total Cholesterol/HDL Cholesterol Ratio."
+          ]
+        },
+        {
+          "image": "/assets/bone.png",
+          "title": "BONE HEALTH PROFLIE",
+
+          "description": [
+            "Calcium",
+            "Phosphorus",
+            "Alkaline Phosphate(ALP)",
+            "ESR"
+          ]
+        },
+        {
+          "image": "/assets/diabetes.png",
+          "title": "Diabetes",
+
+          "description": ["Blood Sugar Fasting/Random", "Urine Glucose"]
+        },
+        {
+          "image": "/assets/urine.png",
+          "title": "URINE R/M",
+
+          "description": [
+            "Blirubin Urine",
+            "Urine Glucose",
+            "Urobilinogin",
+            "Specific Gravity",
+            "Reaction",
+            "RBC's",
+            "Pus Cells",
+            "PH",
+            "Nitrate",
+            "Ketone",
+            "Epithelial Cells",
+            "Crystals",
+            "Colour",
+            "Casts",
+            "Bacteria",
+            "Apperence"
+          ]
+        },
+        {
+          "image": "/assets/blood.png",
+          "title": "COMPLETE BLOOD COUNT (CBC)",
+
+          "description": [
+            "HB (Hemoglobin)",
+            "TLC",
+            "DLC",
+            "Neutrophils",
+            "Basophil",
+            "Eosinophil",
+            "Monocytes",
+            "Lymphocytes",
+            "ESR",
+            "RBC",
+            "PCV",
+            "MCV",
+            "MCH",
+            "MCHC",
+            "RDW-CV",
+            "RDW-SD",
+            "RDW-CV/RDW-SD",
+            "Platelet Count",
+            "PDW",
+            "ESR"
+          ]
+        },
+        {
+          "image": "/assets/iron.png",
+          "title": "IRON",
+
+          "description": ["IRON SERUM"]
+        },
+        {
+          "image": "/assets/vitamin-D.png",
+          "title": "VITAMIN-D",
+
+          "description": ["Vitamin D25 Hydroxy"]
+        },
+        {
+          "image": "/assets/thyroid.png",
+          "title": "THYROID",
+
+          "description": ["TSH (Thyroid Stimulating Hormone)"]
+        },
+        {
+          "image": "/assets/prostate-cancer.png",
+          "title": "PSA (PROSTATE SPECIFIC ANTIGEN)",
+
+          "description": ["PSA (PROSTATE SPECIFIC ANTIGEN)"]
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "SPECIAL DIABETES HEALTH CARE PACKAGE",
+      "card": [
+        {
+          "image": "/assets/liver.png",
+          "title": "LIVER FUNCTION TEST (LFT)",
+
+          "description": [
+            "SGOT (AST)",
+            "SGPT (ALT)",
+            "GGTP (GAMMA GT)",
+            "Albumin",
+            "Globulin",
+            "A:G Ratio",
+            "Total Proteins",
+            "Bilirubin Total",
+            "Bilirubin Direct - Conjugated",
+            "Bilirubin Indirect - Conjugated",
+            "SGPT / SGOT RATIO"
+          ]
+        },
+        {
+          "image": "/assets/kidney.png",
+          "title": "KIDNEY FUNCTION TEST (KFT/RFT)",
+
+          "description": [
+            "Urea",
+            "Uric Acid",
+            "Creatinine",
+            "calcium",
+            "Sodium",
+            "Potassium",
+            "Chloride",
+            "Blood Urea Nitrogen(BUN)",
+            "Urea/Creatinine Ratio",
+            "BUN/Creatinine Ratio"
+          ]
+        },
+        {
+          "image": "/assets/heart.png",
+          "title": "LIPID/HEART PROFLIE",
+
+          "description": [
+            "Total Cholesterol",
+            "Triglycerides",
+            "HDL",
+            "LDL",
+            "VLDL",
+            "LDL/HDL Ratio",
+            "HDL/LDL Ratio",
+            "Total Cholesterol/HDL Cholesterol Ratio."
+          ]
+        },
+        {
+          "image": "/assets/bone.png",
+          "title": "BONE HEALTH PROFLIE",
+
+          "description": [
+            "Calcium",
+            "Phosphorus",
+            "Alkaline Phosphate(ALP)",
+            "ESR"
+          ]
+        },
+        {
+          "image": "/assets/diabetes.png",
+          "title": "Diabetes",
+
+          "description": ["Blood Sugar Fasting/Random", "Urine Glucose"]
+        },
+        {
+          "image": "/assets/urine.png",
+          "title": "URINE R/M",
+
+          "description": [
+            "Blirubin Urine",
+            "Urine Glucose",
+            "Urobilinogin",
+            "Specific Gravity",
+            "Reaction",
+            "RBC's",
+            "Pus Cells",
+            "PH",
+            "Nitrate",
+            "Ketone",
+            "Epithelial Cells",
+            "Crystals",
+            "Colour",
+            "Casts",
+            "Bacteria",
+            "Apperence"
+          ]
+        },
+        {
+          "image": "/assets/blood.png",
+          "title": "COMPLETE BLOOD COUNT (CBC)",
+
+          "description": [
+            "HB (Hemoglobin)",
+            "TLC",
+            "DLC",
+            "Neutrophils",
+            "Basophil",
+            "Eosinophil",
+            "Monocytes",
+            "Lymphocytes",
+            "ESR",
+            "RBC",
+            "PCV",
+            "MCV",
+            "MCH",
+            "MCHC",
+            "RDW-CV",
+            "RDW-SD",
+            "RDW-CV/RDW-SD",
+            "Platelet Count",
+            "PDW",
+            "ESR"
+          ]
+        },
+        {
+          "image": "/assets/iron.png",
+          "title": "IRON",
+
+          "description": ["IRON SERUM"]
+        },
+        {
+          "image": "/assets/vitamin.png",
+          "title": "VITAMIN PROFILE",
+
+          "description": ["Vitamin D25 Hydroxy"]
+        },
+        {
+          "image": "/assets/thyroid.png",
+          "title": "THYROID",
+
+          "description": ["TSH (Thyroid Stimulating Hormone)"]
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "title": "SPECIAL FEMALE HEALTH CARE PACKAGE",
+      "card": [
+        {
+          "image": "/assets/liver.png",
+          "title": "LIVER FUNCTION TEST (LFT)",
+
+          "description": [
+            "SGOT (AST)",
+            "SGPT (ALT)",
+            "GGTP (GAMMA GT)",
+            "Albumin",
+            "Globulin",
+            "A:G Ratio",
+            "Total Proteins",
+            "Bilirubin Total",
+            "Bilirubin Direct - Conjugated",
+            "Bilirubin Indirect - Conjugated",
+            "SGPT / SGOT RATIO"
+          ]
+        },
+        {
+          "image": "/assets/kidney.png",
+          "title": "KIDNEY FUNCTION TEST (KFT/RFT)",
+
+          "description": [
+            "Urea",
+            "Uric Acid",
+            "Creatinine",
+            "calcium",
+            "Sodium",
+            "Potassium",
+            "Chloride",
+            "Blood Urea Nitrogen(BUN)",
+            "Urea/Creatinine Ratio",
+            "BUN/Creatinine Ratio"
+          ]
+        },
+        {
+          "image": "/assets/heart.png",
+          "title": "LIPID/HEART PROFLIE",
+
+          "description": [
+            "Total Cholesterol",
+            "Triglycerides",
+            "HDL",
+            "LDL",
+            "VLDL",
+            "LDL/HDL Ratio",
+            "HDL/LDL Ratio",
+            "Total Cholesterol/HDL Cholesterol Ratio."
+          ]
+        },
+        {
+          "image": "/assets/bone.png",
+          "title": "BONE HEALTH PROFLIE",
+
+          "description": [
+            "Calcium",
+            "Phosphorus",
+            "Alkaline Phosphate(ALP)",
+            "ESR"
+          ]
+        },
+        {
+          "image": "/assets/diabetes.png",
+          "title": "Diabetes",
+
+          "description": ["Blood Sugar Fasting/Random", "Urine Glucose"]
+        },
+        {
+          "image": "/assets/urine.png",
+          "title": "URINE R/M",
+
+          "description": [
+            "Blirubin Urine",
+            "Urine Glucose",
+            "Urobilinogin",
+            "Specific Gravity",
+            "Reaction",
+            "RBC's",
+            "Pus Cells",
+            "PH",
+            "Nitrate",
+            "Ketone",
+            "Epithelial Cells",
+            "Crystals",
+            "Colour",
+            "Casts",
+            "Bacteria",
+            "Apperence"
+          ]
+        },
+        {
+          "image": "/assets/blood.png",
+          "title": "COMPLETE BLOOD COUNT (CBC)",
+
+          "description": [
+            "HB (Hemoglobin)",
+            "TLC",
+            "DLC",
+            "Neutrophils",
+            "Basophil",
+            "Eosinophil",
+            "Monocytes",
+            "Lymphocytes",
+            "ESR",
+            "RBC",
+            "PCV",
+            "MCV",
+            "MCH",
+            "MCHC",
+            "RDW-CV",
+            "RDW-SD",
+            "RDW-CV/RDW-SD",
+            "Platelet Count",
+            "PDW",
+            "ESR"
+          ]
+        },
+        {
+          "image": "/assets/iron.png",
+          "title": "IRON",
+
+          "description": ["IRON SERUM"]
+        },
+        {
+          "image": "/assets/vitamin.png",
+          "title": "VITAMIN PROFILE",
+
+          "description": ["Vitamin D25 Hydroxy"]
+        },
+        {
+          "image": "/assets/thyroid.png",
+          "title": "THYROID",
+
+          "description": ["TSH (Thyroid Stimulating Hormone)"]
+        },
+        {
+          "image": "/assets/woman .png",
+          "title": "CANCER MARKER",
+
+          "description": ["CA125"]
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "title": "SPECIAL THYROID HEALTH CARE PACKAGE",
+      "card": [
+        {
+          "image": "/assets/liver.png",
+          "title": "LIVER FUNCTION TEST (LFT)",
+
+          "description": [
+            "SGOT (AST)",
+            "SGPT (ALT)",
+            "GGTP (GAMMA GT)",
+            "Albumin",
+            "Globulin",
+            "A:G Ratio",
+            "Total Proteins",
+            "Bilirubin Total",
+            "Bilirubin Direct - Conjugated",
+            "Bilirubin Indirect - Conjugated",
+            "SGPT / SGOT RATIO"
+          ]
+        },
+        {
+          "image": "/assets/kidney.png",
+          "title": "KIDNEY FUNCTION TEST (KFT/RFT)",
+
+          "description": [
+            "Urea",
+            "Uric Acid",
+            "Creatinine",
+            "calcium",
+            "Sodium",
+            "Potassium",
+            "Chloride",
+            "Blood Urea Nitrogen(BUN)",
+            "Urea/Creatinine Ratio",
+            "BUN/Creatinine Ratio"
+          ]
+        },
+        {
+          "image": "/assets/heart.png",
+          "title": "LIPID/HEART PROFLIE",
+
+          "description": [
+            "Total Cholesterol",
+            "Triglycerides",
+            "HDL",
+            "LDL",
+            "VLDL",
+            "LDL/HDL Ratio",
+            "HDL/LDL Ratio",
+            "Total Cholesterol/HDL Cholesterol Ratio."
+          ]
+        },
+        {
+          "image": "/assets/bone.png",
+          "title": "BONE HEALTH PROFLIE",
+
+          "description": [
+            "Calcium",
+            "Phosphorus",
+            "Alkaline Phosphate(ALP)",
+            "ESR"
+          ]
+        },
+        {
+          "image": "/assets/diabetes.png",
+          "title": "Diabetes",
+
+          "description": ["Blood Sugar Fasting/Random", "Urine Glucose"]
+        },
+        {
+          "image": "/assets/urine.png",
+          "title": "URINE R/M",
+
+          "description": [
+            "Blirubin Urine",
+            "Urine Glucose",
+            "Urobilinogin",
+            "Specific Gravity",
+            "Reaction",
+            "RBC's",
+            "Pus Cells",
+            "PH",
+            "Nitrate",
+            "Ketone",
+            "Epithelial Cells",
+            "Crystals",
+            "Colour",
+            "Casts",
+            "Bacteria",
+            "Apperence"
+          ]
+        },
+        {
+          "image": "/assets/blood.png",
+          "title": "COMPLETE BLOOD COUNT (CBC)",
+
+          "description": [
+            "HB (Hemoglobin)",
+            "TLC",
+            "DLC",
+            "Neutrophils",
+            "Basophil",
+            "Eosinophil",
+            "Monocytes",
+            "Lymphocytes",
+            "ESR",
+            "RBC",
+            "PCV",
+            "MCV",
+            "MCH",
+            "MCHC",
+            "RDW-CV",
+            "RDW-SD",
+            "RDW-CV/RDW-SD",
+            "Platelet Count",
+            "PDW",
+            "ESR"
+          ]
+        },
+        {
+          "image": "/assets/iron.png",
+          "title": "IRON",
+
+          "description": ["IRON SERUM"]
+        },
+        {
+          "image": "/assets/vitamin.png",
+          "title": "VITAMIN PROFILE",
+
+          "description": ["Vitamin D25 Hydroxy"]
+        },
+        {
+          "image": "/assets/thyroid.png",
+          "title": "THYROID",
+
+          "description": ["TSH (Thyroid Stimulating Hormone)"]
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "title": "COVID-19 (RT-PCR)",
+      "card": [
+        {
+          "image": "/assets/logo.jpg",
+          "title": "COVID-19 (RT-PCR)",
+
+          "description": ["RT-PCR"]
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "title": "Covid Panel Tests",
+      "card": [
+        {
+          "image": "/assets/logo.jpg",
+          "title": "Covid Panel Tests",
+
+          "description": ["CBC", "ESR", "CRP", "D DIMER", "IL6", "FERRITIN"]
+        }
+      ]
+    }
+  ],
+  "PackageTemplate": [
+    {
+      "id": "1",
+      "title": "(KFT) Kidney Function Test",
+      "summary": "Each kidney at birth is composed of approx one million functional units called nephrons, these beings far more than what are needed by the body. As a part of the natural degenerative processes, there is a gradual loss in the number of nephrons after the age of 30years.A large volume of blood, nearly 1300ml/minute, which is about one fourth of the cardiac output at rest, flows through kidneys.The important function of the kidney is to maintain homeostatic balance with respect to fluids, electrolytes and organic solutes.The normal function of the kidney can be performed within wide range of dietary fluctuation pf sodium, water and other solutes.The kidney receives 20% of the cardiac output which allows the filtering of approx. 1600ltr/day of the blood.Approx. 180ltrs of ultrafilterate is produces by filtering the blood and through active process of reabsorbing certain components and secreting others, the composition of fluid is changed into 1.5lts of urine excreted in average day.",
+      "details": [
+        {
+          "title": "FUCTIONS OF KIDNEYS ",
+
+          "description": [
+            "Excretory and regulatory function",
+            "Endocrine function",
+            "Metabolic function"
+          ]
+        },
+        {
+          "title": "GENERAL CAUSES OF KIDNEY DISEASES",
+
+          "description": [
+            "Inflammatory and degenerative disease- There may be short term inflammation of the blood capillaries an membrane of the nephrons as seen in glomerulonephritis. The inflammation may involve the entire nephron in some case. Nephhrotic leading to chronic renal failure. May develop disturbing the metabolism of protein, electrolytes aand water.",
+            "Infection and obstruction",
+            "Other disease",
+            "Toxins",
+            "Genetic factors"
+          ]
+        },
+        {
+          "title": "Risk factors",
+
+          "description": [
+            "Sociodemographic factors",
+            "Older age",
+            "Member of racial or ethic minority",
+            "Exposure to certain chemical and environmental condition",
+            "Low income or education level"
+          ]
+        },
+        {
+          "title": "Clinical factors",
+
+          "description": [
+            "Poor glycemic control in diabetes",
+            "Hypertension",
+            "Autoimmune disease",
+            "Systemic infection",
+            "Urinary tract infection",
+            "Urinary stones",
+            "Lower urinary tract obstruction",
+            "Neoplasia",
+            "Family history of CKD",
+            "Recovery from acute kidney failure",
+            "Reduction in kidney mass",
+            "Exposure to certain nephrotoxic drugs",
+            "Low birth weigth"
+          ]
+        },
+        {
+          "title": "1.GLOMERULAR DISEASE(DUE TO INFFLAMATION OF NEPHRONS)",
+
+          "description": ["GLOMERULONEPHRITIS", "NEPHROTIC SYNDROME"]
+        },
+        {
+          "title": "2. Disease of the tuble and interstitium(due to metabolic injury or traumatic insult to the normal kidney",
+
+          "description": [
+            "ACUTE RENAL FAILURE(ARF)",
+            "CHRONIC INTERSTITIAL NEPHRITIS",
+            "MEDULLARY CYSTIC DISEASE",
+            "FANCONI’S SYNDROME",
+            "RENAL TUBULAR ACIDOSIS(RTA)",
+            "PYELONEPHRITIS"
+          ]
+        },
+        {
+          "title": " Progressive nature of Renal Disease",
+
+          "description": [
+            "CHRONIC KIDNEY DISEASE/ CHRONIC RENAL FAILURE/PRE-ESRD",
+            "END STAGE RENAL DISEASE(ESRD)"
+          ]
+        },
+        {
+          "title": "CLINICALLY SYMPTOMS",
+
+          "description": [
+            "Fatigue",
+            "Swelling on hand and feet",
+            "Water retention",
+            "Feeling dizzy, weak",
+            "Puffy face",
+            "Shortness of breath",
+            "Feeling itchy"
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "2",
+      "title": "Diabetes Profile Test",
+      "summary": "It is a metabolic disorder by high glucose level due to a decreased ability or complete inability of the tissues to utilize carbohydrates, accompanied by changes in the metabolism of fat, protein, water and electrolytes. The hormone insulin, produced by the beta cells of the Islets of langerhans of pancreas.The prevalence sod diabetes is increasing worldwide, according to “World Health Statistics” released by WHO in 2012, over 1 in 10 men and women aged 25 years and above have high blood sugar.",
+
+      "details": [
+        {
+          "title": "TYPE 1 DIABETES ",
+
+          "description": [
+            "It is of relatively infrequent occurred and generally seen prior to the age of 20years although it may occur at any age. The disease usually has an abrupt onset and the abnormally of carbohydrate metabolism in server due to lack of endogenous insulin to control blood glucose level."
+          ]
+        },
+        {
+          "title": "TYPE 2 DIABETES",
+
+          "description": [
+            "MALNUTRITION RELATED DIABETES MELLITUS(MRDM)",
+            "Fibro Calculous Pancreatic Diabetes (FCPD)",
+            "Protein Deficient Diabetes Mellitus( PDDM)",
+            "IMPAIRED GLUCOSE TOLERANCE(GTT)",
+            "GESTATIONAL DIABETES MELLITUS(GDM)"
+          ]
+        },
+        {
+          "title": "STATISTICAL RISK CLASSES",
+
+          "description": ["LATENT DIABETES", "POTENTIAL DIABETES"]
+        },
+        {
+          "title": "FACTOR EFFECTING",
+
+          "description": [
+            "Heredity",
+            "Age",
+            "Gender",
+            "Obesity",
+            "Dietary factors",
+            "Infection",
+            "Stress",
+            "Growth hormone",
+            "Gestational diabetes",
+            "Thyroid hormone"
+          ]
+        },
+        {
+          "title": "SYMPTOMS",
+
+          "description": [
+            "Polyuria or increased urination due to large volume of urine.",
+            "Polydipsia or increased thirst due to excessive water loss",
+            "Polyphagia or increased hunger due to failure to utilize food for body nourishment of the body.",
+            "General weakness",
+            "Decreased ability of wound healing.",
+            "Breathing may be deep and rapid."
+          ]
+        },
+        {
+          "title": "SCREENING AND DIAGNOSIS",
+
+          "description": [
+            "BLOOD GLUCOSE LEVEL",
+            "GLYCOSURIA",
+            "KETONURIA",
+            "ORAL GLUCOSE TOLERANCE TEST",
+            "GLYVOSYLATED HAEMOGLOBIN(HbA1C)"
+          ]
+        },
+        {
+          "title": " LONG TERM COMPLECATION OF DIABETES",
+
+          "description": [
+            "Macrovaccular disorder",
+            "Microvascular disorders",
+            "Nephropathy",
+            "Retinopathy",
+            "Neuropathy"
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "3",
+      "title": "CARDIOVASCULAR DISEASE- HEART DIASEAS",
+      "summary": "Heart disease describes a range of conditions that affect your heart. Diseases under the heart disease umbrella include blood vessel disease.Cardiovascular disease generally refers to condition that involve narrowed or blocked blood vessels that can lead to heart attack, chest pain (angina) or stroke. Other heart conditions, such as those that affect your heart muscles, valves, or rhythm also are considered forms of heart disease.",
+
+      "details": [
+        {
+          "title": "TYPE OF CARDIOVASCULAR DISEASE-",
+
+          "description": [
+            "Heart failure- When heart can’t pump enough blood throughout the body. Heart failure doesn’t mean that that your heart has stopped or is about to stop working.",
+            "Heart attack- When the blood flow to a part of the heart is blocked, usually by a blood clot.",
+            "Arrhythmia- It is a problem with the speed rhythm of the heartbeat caused by disorder in the heart’s electric system.",
+            "Atherosclerosis- Harding of the arteries, or when the inner wall or arteries become narrow due to a build-up of plaque(usually caused by a Diet high in Fat, cigarette smoking diabetes or hypertension). This limits the flow of blood to the heart and brain.",
+            "Aneurysm- It is a balloon like bulge in the wall of an artery or the heart muscles. This bulge can occur if the artery wall weakness. Pressure from blood moving through the artery or heart causes the weak area to bulge."
+          ]
+        },
+        {
+          "title": "CAUSES AND RISK FACTORS THAT ORIGINATES CARDIOVASCULAR DISEASES",
+
+          "description": [
+            "Age",
+            "Family History",
+            "Hypertension",
+            "Sleep apnea",
+            "Diabetes Mellitus",
+            "Elevated Total Cholesterol",
+            "Tobacco Use",
+            "Physically Inactive",
+            "Obesity",
+            "Metabolic Syndrome",
+            "Depression, anxiety and Stress",
+            "Not enough sleep"
+          ]
+        },
+        {
+          "title": "LIPIDS RISK FACTORS",
+
+          "description": [
+            "LDL Cholesterol >130mg/dl",
+            "HDL cholesterol<40mg/dl",
+            "Total Cholesterol>200mg/dl",
+            "Triglycerides>150mh/dl",
+            "Atherogenic dylipidemia"
+          ]
+        },
+        {
+          "title": "EMERGING LIPID RISK FACTOR",
+
+          "description": [
+            "Elevated lipoprotein remnants",
+
+            "Elevated lipoproteins(a)",
+            "Small LDL Particles",
+            "Elevated apoliprotein B",
+            "High total cholesterol/ HDL cholesterol ratio"
+          ]
+        },
+        {
+          "title": "SYMPTOMS OF HEART DISEASE",
+
+          "description": [
+            "Uncomfortable pressure, squeezing, fullness or pain in the centre of your chest. It lasts more than a few minutes, or goes away and come back",
+            "Pain or discomfort in one or both arms, your back, neck, jaw, stomach",
+            "Shortness of breath with or without chest discomfort",
+            "Cold sweat"
+          ]
+        }
+      ]
+    }
+  ]
+}

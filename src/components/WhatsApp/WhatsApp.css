@@ -1,0 +1,6 @@
+.whatsapp {
+  position: fixed;
+  bottom: 70px;
+  right: 10px;
+  z-index: 9999;
+}
